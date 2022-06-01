@@ -1,3 +1,4 @@
+https://ibb.co/hDzxXN1
 # GuerreroBot-MD
 
 # ADOLFO OFC
@@ -22,7 +23,7 @@ $ npm start
 # ESO SERIA TODO INSTALAR EL COMANDO DE UNO POR UNO PARA QUE NO TENGAS NINGUN ERROR
 
 
-```bash
+
 •En caso que se detenga o se cierre Termux colocar lo sigiente
 $ cd GuerreroBot-MD
 $ npm start
