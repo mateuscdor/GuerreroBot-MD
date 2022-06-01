@@ -1,7 +1,7 @@
 # GuerreroBot-MD
-```sh
-#ADOLFO OFC
-```
+
+# ADOLFO OFC
+
 # INSTALACION EN TERMUX
 ```bash
 $ apt update && apt upgrade -y -y
@@ -32,7 +32,7 @@ $ npm start
 
 # PARA PEDIR NUEVO CODIGO QR EN TERMUX
 $ rm -rf session.data.json
-```
+
 
 
 
