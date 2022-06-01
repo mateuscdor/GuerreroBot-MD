@@ -18,9 +18,9 @@ $ npm update
 $ npm start
 '''
 
-'''sh
-# ESO SERIA TODO INSTALAR EL GOMANDO DE UNO POR UNO PARA QUE NO TENGAS NINGUN ERROR
-```
+
+# ESO SERIA TODO INSTALAR EL COMANDO DE UNO POR UNO PARA QUE NO TENGAS NINGUN ERROR
+
 
 ```bash
 •En caso que se detenga o se cierre Termux colocar lo sigiente
@@ -31,7 +31,9 @@ $ npm start
 
 
 # PARA PEDIR NUEVO CODIGO QR EN TERMUX
+```sh
 $ rm -rf session.data.json
+```
 
 
 
