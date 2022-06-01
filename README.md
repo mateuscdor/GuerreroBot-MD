@@ -1,4 +1,4 @@
-https://ibb.co/hDzxXN1
+
 # GuerreroBot-MD
 
 # ADOLFO OFC
