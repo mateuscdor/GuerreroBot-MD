@@ -13,11 +13,11 @@ $ pkg install imagemagick -y
 $ pkg install yarn -y
 $ git clone https://github.com/ADOLFO-BOT5/GuerreroBot-MD
 $ cd GuerreroBot-MD
-$ yarn install
-$ npm install
+$ yarn
+$ npm i
+$ npm install -g npm@8.12.1
 $ npm update
 $ npm start
-'''
 
 
 # ESO SERIA TODO INSTALAR EL COMANDO DE UNO POR UNO PARA QUE NO TENGAS NINGUN ERROR
