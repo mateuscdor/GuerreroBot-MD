@@ -5,6 +5,7 @@
 
 # INSTALACION EN TERMUX
 ```bash
+$ termux-setup-storage
 $ apt update && apt upgrade -y -y
 $ pkg install git -y
 $ pkg install nodejs -y
@@ -18,9 +19,12 @@ $ npm i
 $ npm install -g npm@8.12.1
 $ npm update
 $ npm start
+https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note
+BLOC NOTAS PARA PEGAR EL TEXTO Y COPIARLO DE UNO POR UNO
+# PARA PEGARLO EN TERMUX CORRECTAMENTE
+# WHATSAPP RECOMENDADO
 
-
-# ESO SERIA TODO INSTALAR EL COMANDO DE UNO POR UNO PARA QUE NO TENGAS NINGUN ERROR
+# UNA VEZ HECHO TODO ESO ESCANEA EL CÓDIGO QR TIENES 20 SEGUNDOS
 
 
 
