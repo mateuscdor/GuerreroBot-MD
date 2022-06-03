@@ -23,7 +23,7 @@ https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad
 BLOC NOTAS PARA PEGAR EL TEXTO Y COPIARLO DE UNO POR UNO
 # PARA PEGARLO EN TERMUX CORRECTAMENTE
 # WHATSAPP RECOMENDADO
-
+https://www.mediafire.com/file/mpscztblc2t7xec/WhatsApp_Business_%255B01%255D.apk/file
 # UNA VEZ HECHO TODO ESO ESCANEA EL CÓDIGO QR TIENES 20 SEGUNDOS
 
 
